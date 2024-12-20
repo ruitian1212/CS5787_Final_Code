@@ -7,4 +7,4 @@ This repo is the code for our final project for the course CS 5787 Deep Learning
 3. *Pilot_Test_Model.ipynb*: This notebook is used to conduct pilot test of the model on the VQA-RAD dataset. 
 4. *BioGPT_Model_on_PMC_VQA.ipynb*: This is the main notebook for the project. You can follow the annotations in the notebook to run it step by step. To change the ablations of the model, just change the parameters under "Ablation Configurations" to the parameters you would like to test on and you can different model results.
 
-Feel free let us know if you are unclear with any of the codes!
+Feel free to let us know if you are unclear with any of the codes!
